@@ -1,6 +1,6 @@
 # 🚀 Y PrathapReddy
 
-**BE CSE-AI Student | ML/DL Engineer | AI Researcher**
+**BE CSE-AI Student | ML/DL Engineer |CyberSecurity | AI Researcher |**
 
 [LinkedIn](https://linkedin.com/in/yprathapredhyai) | [Kaggle](https://kaggle.com/pra471) | [HuggingFace](https://huggingface.co/pra471) | [Twitter](https://twitter.com/pra471)
 
