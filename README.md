@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Y PrathapReddy (pra471)
+# 👋 Hi, I'm Y PrathapReddy 
 
 <div align="center">
 
