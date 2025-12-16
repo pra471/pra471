@@ -110,6 +110,21 @@
 
 **Let's collaborate and build something amazing! 🚀**
 
+## 🔐 Cybersecurity & AI Projects
+
+### [CyberSuraksha](https://github.com/pra471/Cyber-suraksha-2-) - AI-Powered Cyber Defense Platform
+**Full-stack cybersecurity monitoring and simulation platform**
+- Frontend: React + TypeScript + Vite  
+- Backend: Node.js/Express, Prisma, PostgreSQL  
+- Features: Real-time WebSocket alerts, ML-based threat detection, secure auth (2FA, CSRF protection)  
+- AI/ML: Integrated anomaly and deepfake detection models  
+- DevOps: Docker, Git LFS, Nginx  
+
+**Why it matters for security:**
+- Demonstrates defensive security engineering at scale
+- Combines ML/DL with production-level cybersecurity practices
+- Shows understanding of secure architecture patterns
+
 *"Code is poetry written in a language computers understand."*
 
 </div>
