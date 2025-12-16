@@ -1,13 +1,11 @@
 # 👋 Hi, I'm Y PrathapReddy 
 
-<div align="center">
-
-### 🤖 ML/DL Engineer | AI Researcher | Computer Vision Specialist
+<div alML/DL Engineer | AI Researcher | Cybersecurity Enthusiast | Computer Vision Specialist
 
 **Passionate about building intelligent systems and publishing cutting-edge research**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yprathapredhyai)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/pra471)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/pra471)    
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/pra471)
 [![HuggingFace](https://img.shields.io/badge/🤗%20Hugging%20Face-FFD21E?style=for-the-badge)](https://huggingface.co/pra471)
 
@@ -19,6 +17,7 @@
 
 - 🎓 **B.E. CSE-AI** Student | AI/ML Enthusiast
 - 🔬 **Research Focus**: Deepfake Detection, Computer Vision, Generative AI
+- - 🔐 **Cybersecurity Focus**: Intrusion Detection, Network Security, Defensive AI, Threat Analysis
 - 📚 **Research Paper Author** | Publishing in top-tier venues
 - 🏆 **Active Competitor** in Kaggle competitions
 - 💼 **Seeking**: AI/ML internships, EV Technology roles
@@ -44,6 +43,19 @@
 ---
 
 ## 🚀 Featured Projects
+
+## 🔐 Cybersecurity & Security Tools
+
+<div align="center">
+
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-5D4E60?style=for-the-badge&logo=metasploit&logoColor=white)
+![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-0071C5?style=for-the-badge&logo=nmap&logoColor=white)
+![TryHackMe](https://img.shields.io/badge/TryHackMe-212121?style=for-the-badge&logo=tryhackme&logoColor=red)
+
+</div>
 
 ### 🎯 Deepfake Detection System
 - **Dual-stream CNN architecture** for real-time deepfake detection
