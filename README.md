@@ -140,3 +140,25 @@
 *"Code is poetry written in a language computers understand."*
 
 </div>
+
+
+---
+
+## 🔐 Cybersecurity Skills
+
+### Core Competencies
+- **Networking Fundamentals**: TCP/IP, DNS, HTTP/HTTPS, VPN, Firewalls, Proxies
+- **Operating Systems**: Linux administration, Windows security, System hardening
+- **Security Tools**: Wireshark, Burp Suite, Metasploit, Hydra, Nmap, Splunk
+- **Web App Security**: SQLi, XSS, IDOR, CSRF, Authentication/Authorization flaws
+- **Threat Analysis**: Log analysis, Incident response, Intrusion detection, SIEM
+
+### Hands-On Experience
+- 🎓 **TryHackMe**: Pre Security & Cyber Security 101 (ongoing)
+- 🔬 **ML-Based Security**: Developing anomaly detection & intrusion detection systems
+- 🛡️ **Defensive AI**: Building AI models for threat classification & phishing detection
+- 💻 **Scripting**: Python & Bash automation for security tasks
+
+### Certifications & Learning
+- Pursuing: **CompTIA Security+** & **ISC2 Certified in Cybersecurity (CC)**
+- Focus: Entry-level SOC analyst, Security engineer, AI/ML security roles
